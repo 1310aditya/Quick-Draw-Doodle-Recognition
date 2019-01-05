@@ -7,4 +7,3 @@ In this paper, we work on a sequential strokes-based doodle dataset collected by
 * [Report](https://github.com/1310aditya/Quick-Draw-Doodle-Recognition/blob/master/cs682_final_report.pdf)
 
 	[1]: https://www.kaggle.com/c/quickdraw-doodle-recognition/data.
-	[2]:
